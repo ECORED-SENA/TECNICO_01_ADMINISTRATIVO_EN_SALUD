@@ -1,0 +1,160 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "sistema",
+    "title": "1. Sistema de seguridad social integral (Ley 100 de 1993)",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema",
+        "title": "1.1 Modelo de salud",
+        "anchor": "tema1_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema",
+        "title": "1.2 Aseguramiento",
+        "anchor": "tema1_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema",
+        "title": "1.3 Integrantes del sistema",
+        "anchor": "tema1_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema",
+        "title": "1.4 Regímenes ",
+        "anchor": "tema1_4"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "constitucion",
+    "title": "2. Constitución Política de Colombia",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "protocolos_de_laboratorio",
+    "title": "3. Derecho fundamental de la salud (Ley número 1751 de 2015 ley estatutaria)",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "reforma",
+    "title": "4. Reforma del sistema general de seguridad social en salud (Ley 1438 de 2011)",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/4-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "el_sistema",
+    "title": "5. El Sistema General de Riesgos Profesionales. (Decreto 1295 de 1994)",
+    "breadcrumb": ["Inicio","tema 5"],
+    "path": "pages/5-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "politica",
+    "title": "6. Política de atención integral en salud —PAÍS y el modelo de acción integral territorial - MAlTE (Resolución 2626 de 2019)",
+    "breadcrumb": ["Inicio","tema 6"],
+    "path": "pages/6-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "clientes",
+    "title": "7. Tipos de clientes",
+    "breadcrumb": ["Inicio","tema 7"],
+    "path": "pages/7-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "satisfaccion",
+    "title": "8. La satisfacción del cliente: elementos y reto",
+    "breadcrumb": ["Inicio","tema 8"],
+    "path": "pages/8-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "mecanismo",
+    "title": "9. Mecanismo para el reporte de información que permitirá la verificación de la entrega de la Carta de Derechos y Deberes del Afiliado y del Paciente y la Carta de Desempeño de la EPS. (Resolución 1379 de 2015)",
+    "breadcrumb": ["Inicio","tema 9"],
+    "path": "pages/9-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "plataforma",
+    "title": "10. Plataforma estratégica",
+    "breadcrumb": ["Inicio","tema 10"],
+    "path": "pages/10-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "comunicacion",
+    "title": "11. La comunicación",
+    "breadcrumb": ["Inicio","tema 11"],
+    "path": "pages/11-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "servicio",
+    "title": "12. Servicio al cliente",
+    "breadcrumb": ["Inicio","tema 12"],
+    "path": "pages/12-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "trabajo",
+    "title": "13. Trabajo en equipo: autoestima, autonomía",
+    "breadcrumb": ["Inicio","tema 13"],
+    "path": "pages/13-tema.html"    
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "etiqueta",
+    "title": "14. Etiqueta y protocolo",
+    "breadcrumb": ["Inicio","tema 14"],
+    "path": "pages/14-tema.html"    
+    
+  }
+
+]
+
