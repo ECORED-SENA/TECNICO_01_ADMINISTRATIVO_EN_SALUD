@@ -60,7 +60,7 @@
     "id": 1,
     "icon": "fa fa-file-text",
     "slug": "reforma",
-    "title": "4. Reforma del sistema general de seguridad social en salud (Ley 1438 de 2011)",
+    "title": "4. Reforma del Sistema General de Seguridad Social en Salud (Ley 1438 de 2011)",
     "breadcrumb": ["Inicio","tema 4"],
     "path": "pages/4-tema.html"    
     
@@ -78,7 +78,7 @@
     "id": 1,
     "icon": "fa fa-play-circle",
     "slug": "politica",
-    "title": "6. Política de atención integral en salud —PAÍS y el modelo de acción integral territorial - MAlTE (Resolución 2626 de 2019)",
+    "title": "6. Política de Atención Integral en Salud — PAIS y el Modelo de Acción Integral Territorial - MAITE (Resolución 2626 de 2019)",
     "breadcrumb": ["Inicio","tema 6"],
     "path": "pages/6-tema.html"    
     
@@ -105,7 +105,7 @@
     "id": 1,
     "icon": "fa fa-play-circle",
     "slug": "mecanismo",
-    "title": "9. Mecanismo para el reporte de información que permitirá la verificación de la entrega de la Carta de Derechos y Deberes del Afiliado y del Paciente y la Carta de Desempeño de la EPS. (Resolución 1379 de 2015)",
+    "title": "9. Mecanismo para el reporte de información que permitirá la verificación de la entrega de la carta de derechos y deberes del afiliado y del paciente y la carta de desempeño de la EPS. (Resolución 1379 de 2015)",
     "breadcrumb": ["Inicio","tema 9"],
     "path": "pages/9-tema.html"    
     
